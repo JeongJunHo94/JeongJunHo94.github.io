@@ -1,8 +1,8 @@
 ---
 layout: post
-title: My First Github blog!
+title: "My First Github blog!"
 date: 2019-10-22 13:18
-img: ![](assets/img/My First Github blog!.jpg)
+img: ![](https://github.com/JeongJunHo94/JeongJunHo94.github.io/blob/master/assets/img/First.jpg)
 tags: Github blog
 ---
 
