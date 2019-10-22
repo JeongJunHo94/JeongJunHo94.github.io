@@ -3,8 +3,7 @@ layout: post
 title: My First Github blog!
 description: start  # Add post description (optional)
 date: 2019-10-22 17:39
-img:
-![First.jpg](C:\JeongJunHo94.github.io\assets\img\First.jpg)
+img: First.jpg # Add image post (optional)
 
 tags: Github blog
 ---
