@@ -2,7 +2,7 @@
 layout: post
 title: My First Github blog!
 date: 2019-10-22 13:18
-![](assets/img/My First Github blog!.jpg)
+img: ![](assets/img/My First Github blog!.jpg)
 tags: Github blog
 ---
 
