@@ -32,3 +32,6 @@ paginate: 8
 paginate_path: "/page/:num"
 
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
+
+category_dir: category/
+tag_dir: tag/
